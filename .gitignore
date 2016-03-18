@@ -1,0 +1,14 @@
+# Debug
+*.exe
+*.ilk
+*.pdb
+*.zfs
+*.idb
+*.pdb
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+
+# Other
+*.sdf
